@@ -7,7 +7,7 @@ I’m a Front End Developer living in Toronto experienced in building responsive
 ![css](./assets/icons8-css3.png)
 ![html](./assets/icons8-html-5.png)
 ![js](./assets/javascript-plain.svg)
-<img src="/assets/javascript-plain.svg">
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/b0ce54ec8abd97e1724df155ff1f251b246a2ea2/assests/javascript-plain.svg">
 ![jquery](./assets/jquery-plain.svg)  
 ![sass](/assets/icons8-sass.png)
 ![react](/assets/icons8-react-native.png)  
