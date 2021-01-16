@@ -37,9 +37,9 @@ I’m a Front End Developer living in Toronto experienced in building responsive
 ### :technologist: I'm currently working on:
 
 - My React, Express, and Node skills
-- Another fullstack MERN App
+- Another MERN Stack App
 
-### :books: I'm currently learning:
+### :nerd_face: I'm currently learning:
 
 - TypeScript
 
