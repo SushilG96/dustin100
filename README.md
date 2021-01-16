@@ -4,10 +4,11 @@ I’m a Front End Developer living in Toronto experienced in building responsive
 
 ## My skill set includes:
 
-![css](/assets/icons8-css3.png)
-![html](/assets/icons8-html-5.png)
-![js](https://github.com/dustin100//assets/javascript-plain.svg?raw=true)  
-![jquery](https://github.com/dustin100//assets/jquery-plain.svg)  
+![css](./assets/icons8-css3.png)
+![html](./assets/icons8-html-5.png)
+![js](./assets/javascript-plain.svg)
+<img src="./assets/javascript-plain.svg">
+![jquery](./assets/jquery-plain.svg)  
 ![sass](/assets/icons8-sass.png)
 ![react](/assets/icons8-react-native.png)  
 ![accessibility](/assets/icons8-web-accessibility.png)  
