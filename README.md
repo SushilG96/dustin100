@@ -4,16 +4,20 @@ I’m a Front End Developer living in Toronto experienced in building responsive
 
 ## My skill set includes:
 
-![css](./assets/icons8-css3.png)
-![html](./assets/icons8-html-5.png)
+![react](/assets/react-original.svg)  
+![node](/assets/nodejs-original.svg)
+![express](/assets/express-original.svg)
+![mongodb](/assets/mongodb-original.svg)
 ![js](./assets/javascript-plain.svg)
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/b0ce54ec8abd97e1724df155ff1f251b246a2ea2/assests/javascript-plain.svg" height="auto" width="40">
+
+![css](./assets/css3-original.svg)
+![html](./assets/html5-original.svg)
 ![jquery](./assets/jquery-plain.svg)  
-![sass](/assets/icons8-sass.png)
-![react](/assets/icons8-react-native.png)  
-![accessibility](/assets/icons8-web-accessibility.png)  
-![Rest api](/assets/icons8-rest-api.png)  
-![responsive design](/assets/icons8-responsive.png)
+![sass](/assets/sass-original.svg)
+![bootstrap](/assets/bootstrap-plain.svg)
+![git](/assets/git-original.svg)
+![vscode](/assets/visualstudio-plain.svg)
 
 ### :computer: I'm currently working on:
 
