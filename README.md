@@ -5,7 +5,7 @@ I’m a Front End Developer living in Toronto experienced in building responsive
 ## My skill set includes:
 
 ![react](./assets/react-original.svg)
-<img src="./assets/react-original.svg" height="auto" width="40">
+<img src="https://github.com/dustin100/dustin100/blob/master/assets/react-original.svg" height="auto" width="40">
 ![node](/assets/nodejs-original.svg)
 ![express](/assets/express-original.svg)
 ![mongodb](/assets/mongodb-original.svg)
