@@ -34,16 +34,16 @@ I’m a Front End Developer living in Toronto experienced in building responsive
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/git-original.svg" height="auto" width="40">
 </p>
 
-### :computer: I'm currently working on:
+### :technologist: I'm currently working on:
 
 - My React, Express, and Node skills
 - Another fullstack MERN App
 
-### :books:I'm currently learning:
+### :books: I'm currently learning:
 
 - TypeScript
 
-### :thinking: In 2021 I want to learn:
+### :thinking: I want to learn:
 
 - Next.js
 - GraphQL
@@ -51,7 +51,7 @@ I’m a Front End Developer living in Toronto experienced in building responsive
 
 ### Outside of coding I enjoy:
 
-- Playing video games
-- Skateboarding
-- Bowling
-- Sci-fi movies/tv shows
+- Playing video games :video_game:
+- Skateboarding :skateboard:
+- Bowling :bowling:
+- Sci-fi movies/tv shows :vulcan_salute:
