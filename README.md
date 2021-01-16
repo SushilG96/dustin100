@@ -4,26 +4,20 @@ I’m a Front End Developer living in Toronto experienced in building responsive
 
 ## My skill set includes:
 
-![react](./assets/react-original.svg)
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
 
-![node](/assets/nodejs-original.svg)
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/nodejs-original.svg" height="auto" width="40">
 
-![express](/assets/express-original.svg)
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/express-original.svg" height="auto" width="40">
 
-![mongodb](/assets/mongodb-original.svg)
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/mongodb-original.svg" height="auto" width="40">
 
-![js](./assets/javascript-plain.svg)
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/b0ce54ec8abd97e1724df155ff1f251b246a2ea2/assests/javascript-plain.svg" height="auto" width="40">
 
-![css](./assets/css3-original.svg)
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/css3-original.svg" height="auto" width="40">
 
 ![html](./assets/html5-original.svg)
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/sass-original.svg" height="auto" width="40">
 
 ![jquery](./assets/jquery-plain.svg)  
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
