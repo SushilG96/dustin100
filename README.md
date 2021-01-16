@@ -1,12 +1,12 @@
 # Hi there 👋 I'm Dustin!
 
-### I’m a Front End Developer living in Toronto experienced in building responsive, accessible websites and web applications using JavaScript, jQuery, Firebase and React. As a recent Juno Bootcamp graduate, I’m looking to expand my portfolio and collaborate on something new.
+I’m a Front End Developer living in Toronto experienced in building responsive, accessible websites and web applications using JavaScript, jQuery, Firebase and React. As a recent Juno Bootcamp graduate, I’m looking to expand my portfolio and collaborate on something new.
 
 ## My skill set includes:
 
 ![css](/assets/icons8-css3.png)
 ![html](/assets/icons8-html-5.png)
-![js](https://github.com/dustin100//assets/javascript-plain.svg)  
+![js](https://github.com/dustin100//assets/javascript-plain.svg?raw=true)  
 ![jquery](https://github.com/dustin100//assets/jquery-plain.svg)  
 ![sass](/assets/icons8-sass.png)
 ![react](/assets/icons8-react-native.png)  
